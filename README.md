@@ -10,6 +10,44 @@ The writing of a paper generally goes through the following steps：
 + How to revise: How to reply and revise the paper after receiving the revision suggestions；
 + How to use the template: In writing, one may encounter various document jargon；
 + How to presentation: How to give a presentation on conference paper。
+# Academic Research Workflow Guide
+
+This guide provides a step-by-step workflow for conducting academic research, from finding a topic to presenting your work.
+
+## How to Think: Finding a Suitable Thesis Topic or Research Question
+1. **Identify Your Interests**: Focus on the academic field or research area that excites you.
+2. **Read Literature**: Explore classic and recent papers to understand trends and gaps.
+3. **Ask Questions**: Identify unresolved problems or questions that could form your research basis.
+
+## How to Search: Finding Existing Research and Related Work
+1. **Use Academic Databases**: Search on platforms like Google Scholar, PubMed, or IEEE Xplore.
+2. **Refine Keywords**: Use precise keywords and filters (e.g., publication year, subject area) to narrow results.
+3. **Explore Citations**: Check references in key papers to find related work and build context.
+
+## How to Write: Writing a Research Paper
+1. **Outline Your Paper**: Structure with sections like Introduction, Methodology, Results, and Conclusion.
+2. **Write Clearly**: Use formal language, avoid jargon, and ensure logical arguments.
+3. **Cite Properly**: Follow required citation styles (e.g., APA, MLA, IEEE).
+
+## How to Submit: Submitting Your Paper
+1. **Choose a Venue**: Select a journal or conference that aligns with your research.
+2. **Follow Guidelines**: Adhere to submission requirements (formatting, word count, etc.).
+3. **Write a Cover Letter**: Briefly introduce your work and its significance.
+
+## How to Revise: Responding to Feedback and Revising
+1. **Review Comments**: Carefully analyze feedback from reviewers.
+2. **Address Feedback**: Respond to each comment with revisions or explanations.
+3. **Proofread**: Ensure your revised paper is error-free before resubmitting.
+
+## How to Use Templates: Handling Common Phrases and Structures
+1. **Use Standard Templates**: Familiarize yourself with common structures for sections like Introduction and Conclusion.
+2. **Adapt Phrases**: Use standard academic phrases but tailor them to your research.
+3. **Maintain Consistency**: Ensure consistent tone, style, and formatting throughout.
+
+## How to Present: Delivering a Conference Presentation
+1. **Prepare Slides**: Create clear, concise slides with minimal text and supporting visuals.
+2. **Practice**: Rehearse your talk multiple times to ensure smooth delivery and timing.
+3. **Engage Audience**: Use eye contact, speak clearly, and be ready for Q&A.
 
 
 Regarding the above steps, this project has collected and shared some good documents and lecture notes：
