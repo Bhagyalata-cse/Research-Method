@@ -3,13 +3,13 @@
 ### Paper Writing
 The writing of a paper generally goes through the following steps：
 
-+ How to Think: How to find suitable viewpoints or topics for one's paper；
-+ How to search: With a topic, how to search for existing research results and related work；
-+ How to write: How to write a paper；
-+ How to submit: Once the paper is written, how to submit it；
-+ How to revise: How to reply and revise the paper after receiving the revision suggestions；
-+ How to use the template: In writing, one may encounter various document jargon；
-+ How to presentation: How to give a presentation on conference paper。
++ **How to Think**: How to find suitable viewpoints or topics for one's paper；
++ **How to search**: With a topic, how to search for existing research results and related work；
++ **How to write**: How to write a paper；
++ **How to submit**: Once the paper is written, how to submit it；
++ **How to revise**: How to reply and revise the paper after receiving the revision suggestions；
++ **How to use the template**: In writing, one may encounter various document jargon；
++ **How to presentation**: How to give a presentation on conference paper。
 # Academic Research Workflow Guide
 
 This guide provides a step-by-step workflow for conducting academic research, from finding a topic to presenting your work.
